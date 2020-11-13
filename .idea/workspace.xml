@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="71e860dc-4468-468a-a90c-0a7e080e00e0" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1idzDLjhwKENzyQOi8jSXLY0Blk" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../first_package/setup.py" />
+  </component>
+  <component name="RunManager" selected="Python.set_game (1)">
+    <configuration name="set_game (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="ZeroX" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/set_game.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="set_game" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="ZeroX" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="C:\Users\user\PycharmProjects\ZeroX\set_game.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test_mycalc" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="ZeroX" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test_mycalc.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="tictactoe" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="ZeroX" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="C:\Users\user\PycharmProjects\ZeroX\tictactoe.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.set_game (1)" />
+        <item itemvalue="Python.test_mycalc" />
+        <item itemvalue="Python.tictactoe" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="71e860dc-4468-468a-a90c-0a7e080e00e0" name="Default Changelist" comment="" />
+      <created>1602252136214</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1602252136214</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="715" y="184" key="FileChooserDialogImpl" timestamp="1605281963394">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="715" y="184" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1605281963394" />
+    <state width="1111" height="102" key="GridCell.Tab.0.bottom" timestamp="1603658296269">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1111" height="102" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1603658296269" />
+    <state width="1111" height="102" key="GridCell.Tab.0.center" timestamp="1603658296269">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1111" height="102" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1603658296269" />
+    <state width="1111" height="102" key="GridCell.Tab.0.left" timestamp="1603658296269">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1111" height="102" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1603658296269" />
+    <state width="1111" height="102" key="GridCell.Tab.0.right" timestamp="1603658296269">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1111" height="102" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1603658296269" />
+    <state width="1136" height="185" key="GridCell.Tab.1.bottom" timestamp="1602255373484">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1136" height="185" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1602255373484" />
+    <state width="1136" height="185" key="GridCell.Tab.1.center" timestamp="1602255373483">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1136" height="185" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1602255373483" />
+    <state width="1136" height="185" key="GridCell.Tab.1.left" timestamp="1602255373483">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1136" height="185" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1602255373483" />
+    <state width="1136" height="185" key="GridCell.Tab.1.right" timestamp="1602255373484">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1136" height="185" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1602255373484" />
+    <state x="510" y="56" key="refactoring.ChangeSignatureDialog" timestamp="1602254498790">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="510" y="56" key="refactoring.ChangeSignatureDialog/0.0.1536.824@0.0.1536.824" timestamp="1602254498790" />
+    <state x="426" y="66" width="672" height="676" key="search.everywhere.popup" timestamp="1603657615995">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="426" y="66" width="672" height="676" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1603657615995" />
+  </component>
+</project>
