@@ -11,3 +11,4 @@
 | games.set_game | list of validation functions |
 
 * This is studing projject. Just to examin md capabilities
+[![Build Status](https://travis-ci.org/Glicher-wp/first-package.svg?branch=master)](https://travis-ci.org/Glicher-wp/first-package)
